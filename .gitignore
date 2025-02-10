@@ -1,0 +1,12 @@
+# Ignore virtual environment
+fastenv/
+
+# Ignore .env file
+.env
+
+# Ignore the __pycache__
+__pycache__/
+
+# Ignore other common files
+*.log
+*.tmp
